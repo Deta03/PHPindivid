@@ -74,10 +74,11 @@
 ## 📸 5. Примеры использования
 
 ### Скриншот 1: Главная страница
-![Главная страница](screenshot1.png)
+<img width="1344" height="623" alt="image-5" src="https://github.com/user-attachments/assets/b4780dc1-0849-4969-bba3-433cdd30676f" />
 
 ### Скриншот 2: Страница фильма / поиск
-![Страница фильма](screenshot2.png)
+<img width="1324" height="594" alt="image-7" src="https://github.com/user-attachments/assets/ef87677f-628c-4f84-bcad-834227cbadc1" />
+
 
 ---
 
